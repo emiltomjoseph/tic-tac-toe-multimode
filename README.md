@@ -63,9 +63,9 @@ The computer opponent uses rule-based AI logic to:
 ## Screenshots
 
 ![Menu](screenshots/Menu.png)
-![Menu](screenshots/Board.png)
-![Menu](screenshots/Draw.png)
-![Menu](screenshots/Win.png)
+![Board](screenshots/Board.png)
+![Draw](screenshots/Draw.png)
+![Win](screenshots/Win.png)
 
 
 ---

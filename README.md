@@ -33,7 +33,8 @@ This project demonstrates GUI programming, event-driven logic, and basic artific
 ---
 
 ## Project Structure
-tic-tac-toe-multimode
+
+```
 │
 ├── tic_tac_toe_multi_mode.py
 ├── screenshots
@@ -42,7 +43,7 @@ tic-tac-toe-multimode
 │ ├── draw.png
 │ └── win.png
 └── README.md
-
+```
 
 ---
 
